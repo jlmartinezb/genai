@@ -26,3 +26,6 @@ references to elaborate the documentation :
 
 https://www.markdownguide.org/cheat-sheet
 
+## Feedback
+This project is in its early stages, and I would love to hear your thoughts! If you have suggestions, questions, or feedback, feel free to open an issue or reach out to me directly.
+
